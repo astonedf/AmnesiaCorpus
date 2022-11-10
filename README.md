@@ -1,0 +1,2 @@
+# AmnesiaCorpus
+Amnesia corpus data
